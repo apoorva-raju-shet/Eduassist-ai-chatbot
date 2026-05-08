@@ -1,65 +1,85 @@
-# EduAssist AI 🤖
+EduAssist AI Chatbot 🤖
 
-EduAssist AI is a modern AI-powered chatbot designed for students and learners.  
-It helps users with coding, AI project ideas, internships, resume guidance, and web development support.
-
-## 🚀 Features
-
-- 💬 AI Chatbot Interface
-- 🌙 Dark / Light Mode
-- 🧠 Dynamic AI Responses
-- 💾 Chat History Support
-- 🎤 Voice Input Button
-- 📱 Responsive UI Design
-- ⚡ Fast and Lightweight
-- 🔗 OpenRouter API Integration
+A modern AI-inspired chatbot web application built using HTML, CSS, and JavaScript with a professional ChatGPT-style interface.
 
 ---
 
-## 🛠️ Technologies Used
+🚀 Features
 
-- HTML5
-- CSS3
+- Modern dark theme UI
+- Dynamic chatbot replies
+- Sidebar chat history
+- New chat functionality
+- Typing animation
+- Responsive design
+- Enter key support
+- Interactive chat interface
+
+---
+
+🛠️ Technologies Used
+
+- HTML
+- CSS
 - JavaScript
-- OpenRouter API
-- GitHub Pages
+- OpenRouter
 
 ---
 
-## 📸 Preview
+📂 Project Structure
 
-EduAssist AI provides a clean and modern chatbot experience with smooth UI and responsive design.
-
----
-
-## 🎯 Purpose
-
-This project was created to:
-- Practice AI integration
-- Improve frontend development skills
-- Build a real-world portfolio project
-- Explore chatbot development
-
----
-
-## 🔮 Future Improvements
-
-- AI Memory System
-- User Authentication
-- Database Integration
-- File Upload Support
-- AI Voice Assistant
-- n8n Workflow Automation
-- Multi-language Support
-
----
-
-## 📂 Project Structure
-
-```bash
 Eduassist-ai-chatbot/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
+---
+
+▶️ How to Run
+
+1. Download or clone the repository
+2. Open the project folder in Visual Studio Code
+3. Install the Live Server extension
+4. Right click "index.html"
+5. Click "Open with Live Server"
+
+---
+
+📸 Project Preview
+
+This project includes:
+
+- ChatGPT-like interface
+- Functional sidebar
+- Dynamic chat system
+- Modern responsive design
+
+---
+
+💡 Future Improvements
+
+- Real AI API integration
+- Voice assistant support
+- User authentication
+- Database integration
+- Mobile app version
+
+---
+
+ Author
+
+Apoorva Raju Shet
+
+---
+
+🔗 GitHub Repository
+
+https://github.com/apoorva-raju-shet/Eduassist-ai-chatbot
+
+---
+
+🌐 Live Demo
+
+https://apoorva-raju-shet.github.io/Eduassist-ai-chatbot/
