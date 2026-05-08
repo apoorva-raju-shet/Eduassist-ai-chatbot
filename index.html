@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduAssist AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <div class="sidebar">
+
+    <div class="logo">
+      <h2>EduAssist AI</h2>
+    </div>
+
+    <button class="new-chat" onclick="newChat()">
+      + New Chat
+    </button>
+
+<div class="history" id="history">
+</div>
+
+  </div>
+
+  <div class="chat-section">
+
+    <div class="top-bar">
+      <h3>EduAssist AI Chatbot</h3>
+<button class="theme-btn" onclick="toggleTheme()">
+  🌙
+</button>
+      <div class="profile">
+        A
+      </div>
+    </div>
+
+    <div class="chat-area" id="chatBox">
+
+      <div class="welcome">
+
+  <h1>EduAssist AI</h1>
+
+  <p>
+    Your smart AI assistant for learning,
+    coding, projects, and internships.
+  </p>
+
+</div>
+
+<div class="bot-msg">
+  👋 Hello Appu! I'm EduAssist AI.
+</div>
+
+    </div>
+
+    <div class="input-box">
+
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Message EduAssist AI..."
+      >
+
+      <button onclick="startVoice()">
+  🎤
+</button>
+
+<button onclick="sendMessage()">
+  Send
+</button>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
